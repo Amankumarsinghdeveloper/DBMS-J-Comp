@@ -1,0 +1,13 @@
+.Books__container {
+    margin: 2rem 5rem;
+}
+
+.books {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 2rem;
+}
+
+button {
+    margin: 1rem 0;
+}
