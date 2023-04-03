@@ -5,7 +5,7 @@ const UserH = () => {
   return (
     <>
     <div className="home__container">
-        <h1>WELCOME TO LIBARY MANAGEMENT</h1>
+        <h1>WELCOME TO LIBARY</h1>
     </div>
     </>
   )

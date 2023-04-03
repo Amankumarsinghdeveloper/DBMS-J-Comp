@@ -16,6 +16,7 @@ const Usernav = () => {
             <Nav.Link href="/userhome/regbook">Reg Book</Nav.Link>
             <Nav.Link href="/userhome/tranjection">Tranjection</Nav.Link>
             <Nav.Link href="/userhome/register">Register</Nav.Link>
+            <Nav.Link href="/userhome/login">Login</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Navbar>
